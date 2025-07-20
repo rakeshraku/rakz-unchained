@@ -1,2 +1,2 @@
-# rakz-unchained
-Private AI powered by LLaMA 3 8B
+# RAKZ-Unchained
+Private AI Assistant powered by LLaMA 3 8B.
